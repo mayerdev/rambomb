@@ -1,6 +1,6 @@
-# rambomb
+# RAMBomb
 ## DO NOT COMPILE &amp; START IT!
-## ONLY EDUCATIONAL PURPOSES!!!!!!!!!!!!!!!!!!!
+## EDUCATIONAL PURPOSES ONLY!!!!!!!!!!!!!!!!!!!
 
 ### Build on Ubuntu/Debian
 
